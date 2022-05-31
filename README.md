@@ -8,9 +8,9 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-cinemagd.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-cinema.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-cinemagd.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-cinema.herokuapp.com/) here!!
 
 ## Tech used
 
