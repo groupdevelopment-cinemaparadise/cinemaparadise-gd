@@ -17,7 +17,7 @@ function Header() {
                     </div>
                     <div class="option">
                         <p onClick={() => dispatch(push('/categories'))}>Category</p>
-                        <p onClick={() => dispatch(push('/favourites'))}>Add to Wishlist</p>
+                        <p onClick={() => dispatch(push('/favourites'))}>Wishlist</p>
                     </div>
                 </div>
             </header>
